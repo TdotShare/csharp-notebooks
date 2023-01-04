@@ -1,0 +1,8 @@
+D:\Coding\csharp-notebooks\csharp-notebooks\csharp-notebooks\bin\Debug\csharp-notebooks.exe.config
+D:\Coding\csharp-notebooks\csharp-notebooks\csharp-notebooks\bin\Debug\csharp-notebooks.exe
+D:\Coding\csharp-notebooks\csharp-notebooks\csharp-notebooks\bin\Debug\csharp-notebooks.pdb
+D:\Coding\csharp-notebooks\csharp-notebooks\csharp-notebooks\obj\Debug\csharp-notebooks.csproj.AssemblyReference.cache
+D:\Coding\csharp-notebooks\csharp-notebooks\csharp-notebooks\obj\Debug\csharp-notebooks.csproj.SuggestedBindingRedirects.cache
+D:\Coding\csharp-notebooks\csharp-notebooks\csharp-notebooks\obj\Debug\csharp-notebooks.csproj.CoreCompileInputs.cache
+D:\Coding\csharp-notebooks\csharp-notebooks\csharp-notebooks\obj\Debug\csharp-notebooks.exe
+D:\Coding\csharp-notebooks\csharp-notebooks\csharp-notebooks\obj\Debug\csharp-notebooks.pdb

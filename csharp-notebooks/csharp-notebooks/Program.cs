@@ -11,6 +11,15 @@ namespace csharp_notebooks
         static void Main(string[] args)
         {
 
+            int[] a = { 1, 2, 3, 4, 5 };
+           
+
+            int[] b = a.Where(item => item > 2).ToArray();
+
+            Console.WriteLine(string.Join("\n", b));
+
+            Console.ReadLine();
+
         }
     }
 }
