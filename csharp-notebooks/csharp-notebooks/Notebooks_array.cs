@@ -21,7 +21,6 @@ namespace csharp_notebooks
             int[] val = array_data.Where(item => item > 1).ToArray();
             Console.WriteLine(string.Join(" ", val));
         }
-
         public void check_value_in_array(int number)
         {
             if (array_data.Contains(number))
