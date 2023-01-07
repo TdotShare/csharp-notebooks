@@ -32,5 +32,12 @@ namespace csharp_notebooks
                 Console.WriteLine("Not found Data !!");
             }
         }
+
+        public void add_data_array(int number)
+        {
+            array_data = array_data.Append(number).ToArray();
+
+            Console.WriteLine(string.Join(" ", array_data));
+        }
     }
 }
