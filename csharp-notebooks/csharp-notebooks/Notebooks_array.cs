@@ -13,7 +13,7 @@ namespace csharp_notebooks
         public void find_value_array()
         {
             int val = array_data.Where(item => item == 1).First();
-            Console.WriteLine($"1 => {val}");
+            Console.WriteLine($"val => {val}");
         }
 
         public void filter_value_array()
