@@ -16,6 +16,14 @@ namespace csharp_notebooks
             Console.WriteLine($"val => {val}");
         }
 
+        public void delete_vale_array(int number)
+        {
+            //logic filter
+
+            int[] val = array_data.Where(item => item != number).ToArray();
+            Console.WriteLine(string.Join(" ", val));
+        }
+
         public void filter_value_array()
         {
             int[] val = array_data.Where(item => item > 1).ToArray();

@@ -14,7 +14,9 @@ namespace csharp_notebooks
         static void Main(string[] args)
         {
             var notebooks_array_data = new Notebooks_array();
-            notebooks_array_data.add_data_array(9);
+            //notebooks_array_data.add_data_array(9);
+
+            notebooks_array_data.delete_vale_array(4);
 
 
 
