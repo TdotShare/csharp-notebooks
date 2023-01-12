@@ -18,8 +18,9 @@ namespace csharp_notebooks
                 new Book {book_name = "test1" , book_create_by =  "test1"},
                 new Book {book_name = "test2" , book_create_by =  "test2"},
                 new Book {book_name = "test3" , book_create_by =  "test3"},
+                new Book {book_name = "test4" , book_create_by =  "test4"},
             };
-        }  
+        }
 
     }
 }
